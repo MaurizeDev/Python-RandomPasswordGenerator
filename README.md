@@ -7,7 +7,7 @@ The code was written in 2 days as part of a programming exercise, and includes v
 
 ## Features
 - **User-defined password length**: The user can choose the length of the password or allow the program to default to a 30-character password
-- **Customizable character composition**: The user can specify how many letters, digits, and special characters the password should contain
+- **Customizable character composition**: The user can specify how many letters, digits, and special characters the password should contain (can also be zero)
 - **Random character assignment**: If the user leaves certain inputs blank, random values are assigned
 - **ASCII Art**: Displays decorative ASCII art at different stages of the program using the [patorjk.com website](https://patorjk.com/software/taag)
 - **Runtime Measurement**: Measures the time taken to generate the password
