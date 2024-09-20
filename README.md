@@ -1,13 +1,13 @@
 # Random Password Generator
 
 ## Overview
-This project is a **Random Password Generator** developed as the final project for a 4-week Python course. The program generates secure, random passwords based on user-defined specifications such as total password length, the number of letters, digits, and special characters. It also provides the option to save the password in a `.txt` file and measures the time taken to generate the password.
+This project is a **Random Password Generator** developed as my final project for a 4-week Python course. The program generates secure, random passwords based on user-defined specifications such as total password length, the number of letters, digits, and special characters. It also provides the option to save the password in a `.txt` file and measures the time taken to generate the password.
 
-The code was written in 2 days as part of a programming exercise, and includes various future plans for improvements, such as a GUI, password strength checker, and multi-language support.
+The code was written in 2 days and includes various future plans for improvements, such as a GUI, password strength checker, and multi-language support.
 
 ## Features
-- **User-defined password length**: The user can choose the length of the password or allow the program to default to a 30-character password
-- **Customizable character composition**: The user can specify how many letters, digits, and special characters the password should contain (can also be zero)
+- **User-defined password length**: The user can choose the length of the password (or default to a 30-character password)
+- **Customizable character composition**: The user can specify how many letters, digits and special characters the password should contain (can also be zero)
 - **Random character assignment**: If the user leaves certain inputs blank, random values are assigned
 - **ASCII Art**: Displays decorative ASCII art at different stages of the program using the [patorjk.com website](https://patorjk.com/software/taag)
 - **Runtime Measurement**: Measures the time taken to generate the password
