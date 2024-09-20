@@ -23,7 +23,7 @@ The code was written in 2 days as part of a programming exercise, and includes v
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MaurizeDev/random-password-generator.git
+    git clone https://github.com/MaurizeDev/Python-RandomPasswordGenerator/
     ```
 
 2. Install the required dependencies:
