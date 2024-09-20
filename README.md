@@ -1,9 +1,9 @@
-# Random Password Generator - Final Python Project (July 2024)
+# Random Password Generator
 
 ## Overview
-This project is a **Random Password Generator** developed as the final project for a 4-week Python course in July 2024. The program generates secure, random passwords based on user-defined specifications such as total password length, the number of letters, digits, and special characters. It also provides the option to save the password in a `.txt` file and measures the time taken to generate the password.
+This project is a **Random Password Generator** developed as the final project for a 4-week Python course. The program generates secure, random passwords based on user-defined specifications such as total password length, the number of letters, digits, and special characters. It also provides the option to save the password in a `.txt` file and measures the time taken to generate the password.
 
-The code was written in 2 days as part of a programming exercise, and includes various future plans for improvements, such as a GUI, stronger password recommendations, and multi-language support.
+The code was written in 2 days as part of a programming exercise, and includes various future plans for improvements, such as a GUI, password strength checker, and multi-language support.
 
 ## Features
 - **User-defined password length**: The user can choose the length of the password or allow the program to default to a 30-character password
